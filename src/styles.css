@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.parentDiv > * {
+  margin: 1rem;
+}
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 0.3rem 0.8rem;
+  text-align: center;
+  font-size: 10px;
+  margin-left: 1rem;
+}
